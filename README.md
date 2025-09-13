@@ -38,31 +38,10 @@ This repository contains the full project structure and architecture of an XRPL 
 The original sophisticated algorithms have been replaced with naive implementations:
 
 **Pathfinding Engine** (`naivePathfinder.ts` replaces `corePathfindingEngine.ts`):
-- Multi-hop route discovery across AMM and DEX liquidity sources
-- Advanced liquidity aggregation algorithms
-- Real-time market depth analysis and scoring
-- Concurrent pathfinding with intelligent caching
-- Price impact optimization and slippage calculations
-- Arbitrage opportunity detection
 
 **Transaction Processing** (`naiveTransactionFetcher.ts` replaces `getAccountTransactions.ts`):
-- Advanced transaction parsing for all XRPL transaction types
-- Complex NFT transaction analysis and metadata extraction
-- AMM and DEX transaction interpretation
-- Multi-currency amount formatting and conversion
-- Detailed transaction categorization and status analysis
-- Cross-currency payment path reconstruction
-- Transaction relationship mapping and grouping
 
 **Cross-Currency Payment Engine** (`naiveCrossCurrencyPayment.ts` replaces `sendCrossCurrency.ts`):
-- Advanced pathfinding integration for optimal routing
-- Multi-hop payment execution across AMM and DEX
-- Dynamic slippage calculation and protection
-- Exact input/output payment modes with precise calculations
-- Balance verification and reserve management
-- Complex transaction result parsing and analysis
-- Fallback routing strategies for failed payments
-- Real-time exchange rate optimization
 
 ### 🚫 Environment Variables & Secrets
 - All `.env` files have been removed
