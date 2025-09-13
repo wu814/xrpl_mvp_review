@@ -6,7 +6,7 @@
 
 This repository contains the full project structure and architecture of an XRPL (XRP Ledger) DeFi trading platform, prepared specifically for code review purposes. The codebase demonstrates comprehensive blockchain integration, modern web development practices, and sophisticated financial trading infrastructure.
 
-## What's Included
+## What's Included (Main Project)
 
 ### ✅ Complete Architecture
 - **Frontend**: Modern Next.js 15 application with React 19
@@ -39,7 +39,7 @@ The original sophisticated algorithms have been replaced with naive implementati
 
 **Pathfinding Engine** (`naivePathfinder.ts` replaces `corePathfindingEngine.ts`):
 
-**Transaction Processing** (`naiveTransactionFetcher.ts` replaces `getAccountTransactions.ts`):
+**Getting Transaction History** (`naiveTransactionFetcher.ts` replaces `getAccountTransactions.ts`):
 
 **Cross-Currency Payment Engine** (`naiveCrossCurrencyPayment.ts` replaces `sendCrossCurrency.ts`):
 
