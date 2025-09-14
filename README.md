@@ -67,7 +67,7 @@ The original sophisticated algorithms have been replaced with naive implementati
 
 ### 📹 Demo Video
 A comprehensive demonstration of the platform's functionality is available at:
-**[Demo Video - September 13, 2025](https://demo-link-placeholder.com)**
+**[Demo Video - September 13, 2025](https://drive.google.com/file/d/1eJ6igXuBTha1iEOud__05bQ44tOXmb0V/view?usp=sharing)**
 
 The video showcases:
 - Complete user registration and wallet creation flow
