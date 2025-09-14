@@ -14,7 +14,7 @@
 
 ## Overview
 
-This repository contains the full project structure and architecture of an XRPL (XRP Ledger) DeFi trading platform, prepared specifically for code review purposes. The codebase demonstrates comprehensive blockchain integration, modern web development practices, and sophisticated financial trading infrastructure.
+This repository provides the full-stack implementation of a permissioned DeFi protocol on the XRP Ledger (XRPL), designed for regulated environments and architected for upcoming XRPL amendments.
 
 ## What's Included (Main Project)
 
