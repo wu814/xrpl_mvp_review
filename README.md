@@ -5,10 +5,10 @@
 ## License & Usage Notice
 
 - This repository is provided solely for the purpose of evaluation by the BDAX review team.
-- All intellectual property rights are retained by Yona, LLC.
+- All intellectual property rights are retained by YONA, LLC.
 - The code is licensed under the Business Source License 1.1 (BSL 1.1), included in this repository.
 - Viewing and evaluation are permitted.
-- Commercial use, production deployment, redistribution, modification, or derivative works are strictly prohibited without prior written consent from Yona, LLC.
+- Commercial use, production deployment, redistribution, modification, or derivative works are strictly prohibited without prior written consent from YONA, LLC.
 - Proprietary algorithms have been removed; the full production system may be shared under NDA if required.
 - By accessing this repository, you agree to these terms.
 
