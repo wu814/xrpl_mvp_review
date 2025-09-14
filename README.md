@@ -2,6 +2,16 @@
 
 ⚠️ **This is a code review version with execution disabled and proprietary algorithms removed**
 
+## License & Usage Notice
+
+- This repository is provided solely for the purpose of evaluation by the BDAX review team.
+- All intellectual property rights are retained by Yona, LLC.
+- The code is licensed under the Business Source License 1.1 (BSL 1.1), included in this repository.
+- Viewing and evaluation are permitted.
+- Commercial use, production deployment, redistribution, modification, or derivative works are strictly prohibited without prior written consent from Yona, LLC.
+- Proprietary algorithms have been removed; the full production system may be shared under NDA if required.
+- By accessing this repository, you agree to these terms.
+
 ## Overview
 
 This repository contains the full project structure and architecture of an XRPL (XRP Ledger) DeFi trading platform, prepared specifically for code review purposes. The codebase demonstrates comprehensive blockchain integration, modern web development practices, and sophisticated financial trading infrastructure.
